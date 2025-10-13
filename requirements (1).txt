@@ -7,4 +7,6 @@ PyPDF2
 flask
 dotenv-python
 faiss-cpu
+
 tiktoken
+#
