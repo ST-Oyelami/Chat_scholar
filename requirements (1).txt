@@ -9,4 +9,5 @@ dotenv-python
 faiss-cpu
 
 tiktoken
-#
+
+
